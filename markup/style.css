@@ -1,0 +1,26 @@
+.book{
+    background-color: lightgrey;
+    width: 400px;
+    height: 452px;
+    border: 10px black;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 5px;
+
+}
+img{
+    width: 260px;
+    height: 260px;
+
+}
+h3{
+    color: black;
+}
+
+h4{
+color: grey;
+padding-top: 5px;
+padding-bottom: 1px;
+}
